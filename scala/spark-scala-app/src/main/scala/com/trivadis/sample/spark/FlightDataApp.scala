@@ -2,7 +2,6 @@ package com.trivadis.sample.spark
 
 import org.apache.spark.sql.{AnalysisException, SparkSession}
 import org.apache.spark.sql.functions.col
-import io.delta.tables._
 import org.apache.spark.{SparkConf, SparkContext}
 import scopt.OParser
 import org.apache.spark.sql.types._
