@@ -1,4 +1,4 @@
-name := "Spark Scala Sample"
+name := "SparkScalaSample"
 
 version := "1.0"
 
