@@ -1,4 +1,4 @@
-FROM trivadis/apache-spark-java-template:2.4.7-hadoop2.8
+FROM trivadis/apache-spark-template-java:2.4.7-hadoop2.8
 
 MAINTAINER XXX YYY <xxx.yyy@gmail.com>
 
